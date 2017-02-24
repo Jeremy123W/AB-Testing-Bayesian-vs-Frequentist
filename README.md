@@ -5,6 +5,6 @@ Pricing_Test_Part_1.ipynb contains the write up for the first half of the analys
 contains the bayesian vs frequentist A/B test comparison.  
 
 Conversion_Count_map.html, Conversion_Mean_map.html, and Missed_Conversion_map.html are interactive maps that
-can be opened in any internet browser.  Graphs/Visuals from the A/B price test comparison are also included.
+can be opened in any internet browser.  I recommend downloading the repo, it is easier to open these files.  Graphs/Visuals from the A/B price test comparison are also included.
 
 The scripts directory contains all the python scripts I used for this project.
